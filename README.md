@@ -1,9 +1,8 @@
 ### Hi there welcome to my page 👋
 
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning Python and R for data analysis
-- 👯 I’m looking to collaborate on data analysis projects
-- 🤔 I’m looking for help with python and R
-- 💬 Ask me about Spreadsheets and my learning journey
-- 📫 How to reach me: https://twitter.com/CrownThirst
+- 🔭 I’m a data analyst, and i can help you make intelligible/data driven decisions by drawing actionable insights from your data.
+- 👯 I’m looking to collaborate on data analysis projects that can aid my development
+- 💬 Ask me about Spreadsheets, Python, R, SQL, Powerplatform and most especially my journey so far in the analytics space
+- 📫 How to reach me: https://twitter.com/CrownThirst or Crownthirst@outlook.com
 - ⚡ Fun fact: I excel at spreadsheets
+- 💼 i'm open to job opportunities and internships
