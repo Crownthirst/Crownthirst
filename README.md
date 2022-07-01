@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome to my page 👋
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning Python and R for data analysis
