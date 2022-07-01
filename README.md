@@ -6,3 +6,5 @@
 - 📫 How to reach me: https://twitter.com/CrownThirst or Crownthirst@outlook.com
 - ⚡ Fun fact: I excel at spreadsheets
 - 💼 i'm open to job opportunities and internships
+
+![Crownthirst](https://user-images.githubusercontent.com/108200325/176956232-4e8a2e26-fdb3-4215-b7d4-6a0ea526e432.jpg)
