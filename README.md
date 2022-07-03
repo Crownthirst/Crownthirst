@@ -8,3 +8,7 @@
 - 📫 How to reach me: https://twitter.com/CrownThirst or Crownthirst@outlook.com
 - ⚡ Fun fact: I excel at spreadsheets
 - 💼 i'm open to junior data analyst roles and internships
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
