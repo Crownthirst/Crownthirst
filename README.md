@@ -13,3 +13,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Crownthirst&label=Visits)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+vercel.app/api/<CARD_TYPE>/?username=<Crownthirst>&theme=<THEME_NAME>" />
