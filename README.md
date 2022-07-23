@@ -16,4 +16,4 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Crownthirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crownthirst&show_icons=true&theme=radical)
+![Crownthirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crownthirst&show_icons=true&theme=gotham)
