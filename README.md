@@ -24,4 +24,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/python-5.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="PowerBI Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-studio-1.svg" alt="RStudio Logo" width="50" height="50"/>
