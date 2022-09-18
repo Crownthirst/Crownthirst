@@ -5,7 +5,7 @@
 - 🔭 I’m a data analyst, and i help businesses make intelligible/data driven decisions by drawing actionable insights from business data.
 - 👯 I’m open to collaborate on data analysis projects
 - 💬 Ask me about Spreadsheets, Python, R, SQL, Powerplatform
-- 📫 How to reach me: https://twitter.com/CrownThirst or Crownthirst@outlook.com
+- 📫 How to reach me: [Twitter](https://twitter.com/CrownThirst) | [Email](Crownthirst@outlook.com) | [Linkedin](https://www.linkedin.com/in/adewunmioluwaseun/)
 - ⚡ Fun fact: I excel at spreadsheets
 - 💼 i'm open to junior data analyst roles and internships
 
@@ -15,5 +15,13 @@
 ![](https://komarev.com/ghpvc/?username=Crownthirst&label=Visits)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownthirst&hide=java,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Crownthirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crownthirst&show_icons=true&theme=gotham)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🧰 Toolbox
+
+<img src="https://worldvectorlogo.com/logo/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/python-5.svg" alt="Python Logo" width="50" height="50"/>
