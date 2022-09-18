@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownthirst&hide=java,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownthirst&hide=java,css,Roff&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Crownthirst's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crownthirst&show_icons=true&theme=gotham)
 
