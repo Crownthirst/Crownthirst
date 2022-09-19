@@ -5,7 +5,7 @@
 - 🔭 I’m a data analyst, and i help businesses make intelligible/data driven decisions by drawing actionable insights from business data.
 - 👯 I’m open to collaborate on data analysis projects
 - 💬 Ask me about Spreadsheets, Python, R, SQL, Powerplatform
-- 📫 How to reach me: [Twitter](https://twitter.com/CrownThirst) | [Email](Crownthirst@outlook.com) | [Linkedin](https://www.linkedin.com/in/adewunmioluwaseun/)
+- 📫 How to reach me: [Twitter](https://twitter.com/CrownThirst) | Email: Crownthirst@outlook.com | [Linkedin](https://www.linkedin.com/in/adewunmioluwaseun/)
 - ⚡ Fun fact: I excel at spreadsheets
 - 💼 i'm open to junior data analyst roles and internships
 
